@@ -3,21 +3,21 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: ''
-datePublished: '2016-01-14T14:37:35.763Z'
-dateModified: '2016-01-14T14:37:21.357Z'
+datePublished: '2016-01-14T18:28:28.310Z'
+dateModified: '2016-01-14T14:54:21.814Z'
 title: My Next Story
 author: []
+sourcePath: _posts/2016-01-14-my-next-story.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-01-14-my-next-story.md
-published: true
 url: my-next-story/index.html
 _type: Article
 
