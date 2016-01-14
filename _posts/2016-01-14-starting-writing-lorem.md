@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-14T14:37:46.353Z'
-dateModified: '2016-01-14T14:33:42.826Z'
+datePublished: '2016-01-14T14:57:44.024Z'
+dateModified: '2016-01-14T14:47:13.106Z'
 title: "Starting writing\_Lorem\_"
 author: []
+sourcePath: _posts/2016-01-14-starting-writing-lorem.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-01-14-starting-writing-lorem.md
-published: true
 url: starting-writing-lorem/index.html
 _type: Article
 
