@@ -1,7 +1,7 @@
 name: Race Cars
 favicon: null
 layout_spectrum: 1
-typography_spectrum: 0.7493813137989491
+typography_spectrum: 0.2385
 title: Race cars
 cta:
   domain: null
@@ -22,8 +22,8 @@ color:
     - '#4877bb'
     - '#7f9fd0'
     - '#e4bc4a'
-  brandStrength: 0.1875
-  lightness: 0.8777047351468354
-  saturation: 0.125
-  rhythmicContrast: 0.863409495446831
+  brandStrength: 0.5
+  lightness: 0
+  saturation: 0
+  rhythmicContrast: 0.75
 purpose: []
